@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning [Bootstrap](https://getbootstrap.com/) and [Traefik](https://doc.traefik.io/traefik/)
 - 👯 I’m looking to collaborate on web dev and any open source project
 - 🤔 I’m looking for help with web dev and CI/CD
-- 💬 Ask me about linux, open source, manga, anime, movie or books
+- 💬 Ask me about linux, open source, manga, anime, movies or books
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I wrote my first line of code at the age of 16
 

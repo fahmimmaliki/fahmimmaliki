@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there I'am Fahmi 👋
 
 <!--
-**fahmimmaliki/fahmimmaliki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### My Github stats:
+![Fahmi's github stats](https://github-readme-stats.vercel.app/api?username=fahmimmaliki&theme=chartreuse-dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahmimmaliki&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)

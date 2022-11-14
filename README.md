@@ -5,7 +5,7 @@
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/fahmimmaliki" />
 </p>
 <br>
-<h2>DevOps Engineer at <a href="http://kinnarastudio.com" alt="Kinnara Digital Studio">Kinnara Digital Studio</a></h2>
+<h2>DevOps Engineer at <a href="https://www.ggl.life/" alt="AWR | GGL">AWR | GGL</a></h2>
 
 - 🔭 I’m currently working on my portfolio website
 - 🌱 I’m currently learning [Bootstrap](https://getbootstrap.com/) and [Traefik](https://doc.traefik.io/traefik/)

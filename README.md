@@ -1,9 +1,6 @@
 <p>
   <h1 align="center"><b>Hello there, I'm Fahmi 👋</b></h1>
 </p>
-<p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/fahmimmaliki" />
-</p>
 <br>
 <h2>DevOps Engineer at <a href="https://www.ggl.life/" alt="AWR | GGL">AWR | GGL</a></h2>
 
